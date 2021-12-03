@@ -14,7 +14,7 @@
 		"Formatters"
 	],
 	"keywords": ["Single Quote", "Quotes", "Single", "Wrap", "Line"],
-	"icon": "./icon.png",
+	"icon": "icon.png",
 	"galleryBanner": {
 		"color": "#C80000",
 		"theme": "dark"
