@@ -1,0 +1,9 @@
+out
+.history
+dist
+node_modules
+*.vsix
+.vscode-test/**
+.yarnrc
+vsc-extension-quickstart.md
+**/*.map
